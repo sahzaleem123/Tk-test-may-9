@@ -1,0 +1,29 @@
+body{
+    background-color: #f7f7f7
+}
+header{
+    display: flex;
+    background-color: #ffffff;
+    
+}
+nav li{
+    display: inline-block;
+    padding: 20px;
+    padding-top: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding-top: 20px;
+    font-size: 15px;
+}
+ul{
+    padding-inline-start: 500px;
+}
+main{
+    text-align: center;
+}
+h1{
+    display: inline;
+    position: absolute;
+}
+p{
+    display: inline;
+}
