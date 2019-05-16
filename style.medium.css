@@ -1,0 +1,134 @@
+body{
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+nav li{
+    display: none;
+}
+#hambar{
+    padding-top: 2px;
+    font-size: x-large;
+    padding-right: 10px;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+}
+main{
+    display: flex;
+    justify-content: center;
+}
+.img-1{
+    padding: 22px 0px 17px 0px;
+    background-color: #cccccc;
+    margin-block-end: 10px;
+}
+.book-img{
+    height:auto;
+    width: 183px;
+}
+.aside{
+    padding-left: 15px;
+}
+
+hr{ 
+    height: 1px;
+    color: #cccccc;
+    background-color: #cccccc;
+    border: none;
+    margin: 0px;
+  }
+  h1{
+      font-family: 'Source Sans Pro', sans-serif;
+      margin-block-start: 1px;
+      margin-block-end: 5px;
+  }
+  .p1{
+      margin-block-start: 1px;
+      margin-block-end: 10px;
+  }
+  .rating{
+      height: 40px;
+  }
+  .p2{
+      margin-block-end: 2px;
+  }
+  .strng-1{
+      padding-right: 15px;
+      font-family: 'Source Sans Pro', sans-serif;
+  }
+  .p3{
+      margin-block-start: 4px;
+      margin-block-end: 5px;
+      font-size: larger;
+      margin-left: 131px;
+      color: #b12603;
+  }
+  .p4{
+      margin-block-start: 3px;
+      margin-block-end: 3px;
+      color: #bc432e;
+      font-size: medium;
+      margin-left: 131px;
+  }
+  button{
+      margin-block-start: 8px;
+      margin-block-end: 5px;
+      font-size: 20px;
+      font-weight: bold;
+      color: white;
+      background-color: #f2839e;
+      border: none;
+      padding: 12px 60px;
+  }
+  button:hover{
+      cursor: pointer;
+      background-color: #ed4b74;
+  }
+  .bottom-gap{
+      margin-block-end: 15px;
+  }
+  .sec-1{
+      text-align: left;
+      padding-inline-start: 15%;
+      padding-inline-end: 10%;
+  }
+  .sec-1 a{
+      display: block;
+  }
+  .sec-2{
+    
+    padding-block-end: 20px;
+    background-color: #ffffff;
+    padding-inline-start: 15%;
+    padding-inline-end: 10%;
+}
+h2{
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-block-start: 30px;
+}
+.strng-2{
+    font-family: 'Source Sans Pro', sans-serif;
+    padding-right: 5px;
+}    
+h3{
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-block-start: 30px;
+}
+.sec-3{
+    
+    padding-block-end: 20px;
+    background-color: #ffffff;
+    padding-inline-start: 15%;
+    padding-inline-end: 10%;
+   
+}
+.p6{
+    margin-inline-start: 20px;
+    margin-block-end: 35px;
+ }
